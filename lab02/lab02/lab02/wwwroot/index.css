@@ -1,0 +1,20 @@
+body {
+    display:flex;
+    flex-flow:column;
+}
+.red {
+    color:red;
+}
+.green{
+    color:green;
+}
+.magenta{
+    color:magenta;
+}
+.blue{
+    color:blue;
+}
+img {
+    height: 30%;
+    width: 50%;
+}

@@ -1,0 +1,6 @@
+{
+    "Celebrities": {
+      "PhotoFolder": "D:\\лабораторные работы\\тпви\\lab06\\DAL_Celebrity\\Photo",
+      "ConnString": "Data source = WIN-0RRORC9T71J\\SQLEXPRESS; Initial Catalog = Celebrities;TrustServerCertificate=Yes;Integrated Security=True;"
+    }
+  }
